@@ -61,6 +61,9 @@ For each cell $(i, j)$ in the maze, the gradient is computed using central diffe
 
 $$ \nabla\phi_{i,j} = \left( \frac{\phi_{i,j+1} - \phi_{i,j-1}}{2}, \frac{\phi_{i+1,j} - \phi_{i-1,j}}{2} \right) $$
 
+### Detecting other paths by varying potential difference
+
+
 ## Conclusion
 
 This method provides an interesting approach to maze-solving by leveraging principles from physics. The generated potential field offers insight into how potential flows through the maze, and the gradient-driven path offers a means to navigate from start to end.
