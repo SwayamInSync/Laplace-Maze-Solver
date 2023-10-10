@@ -2,6 +2,8 @@
 
 This repository contains an innovative approach to solving mazes using Laplace's equation. Instead of traditional pathfinding algorithms, we use physical principles to model the maze as a potential field and then navigate the maze by following the gradient.
 
+![](https://raw.githubusercontent.com/SwayamInSync/Laplace-Maze-Solver/main/assets/maze_solution.png)
+
 ## Theory
 
 ### Representing the Maze as a System
